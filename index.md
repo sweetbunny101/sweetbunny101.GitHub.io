@@ -8,8 +8,7 @@
 <body>
     <h1>简历</h1>
     <hr>
-    <h2>罗一博</h2><img src="https://i01piccdn.sogoucdn.com/c64460e433015c7c"/><br/><img src="http://inews.gtimg.com/newsapp_ls/0/11484644889/0
-"/><br/>
+    <h2>罗一博</h2><img src="https://i01piccdn.sogoucdn.com/c64460e433015c7c"/><br/>
    <strong>博士  |  团员 | 22岁  | 男  </strong>
     <p>所在地：重庆 | 籍贯：重庆</p>
     <em>邮箱：123456789@qq.com  |  联系电话：+86 17612341234</em><br/>
