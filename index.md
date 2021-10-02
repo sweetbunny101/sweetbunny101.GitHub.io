@@ -8,7 +8,7 @@
 <body>
     <h1>简历</h1>
     <hr>
-    <h2>罗一博</h2><img src="https://i01piccdn.sogoucdn.com/c64460e433015c7c"/><br/>
+    <h2>罗一博</h2><img src="https://i01piccdn.sogoucdn.com/c64460e433015c7c"/><br/><img src="https://github.com/sweetbunny101/sweetbunny101.github.io/blob/main/wuling.jpg"/>
    <strong>博士  |  团员 | 22岁  | 男  </strong>
     <p>所在地：重庆 | 籍贯：重庆</p>
     <em>邮箱：123456789@qq.com  |  联系电话：+86 17612341234</em><br/>
