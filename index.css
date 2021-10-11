@@ -1,0 +1,106 @@
+* {
+    font-family: "宋体";
+}
+
+div {
+    border-radius: 5px;
+    /* border: 1px solid #aacfd0; */
+}
+
+#container {
+    margin: 2%;
+    width: 810px;
+    height: 1080px;
+    border: 1px solid #79a8a9;
+    background-color: #aacfd0;
+    font-size: 14px;
+    color: #003b42;
+}
+
+#top {
+    margin-top: 1.2%;
+    margin-left: 1.2%;
+    margin-bottom: 0.5%;
+    width: 97.3%;
+    height: 8%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+}
+
+#left {
+    float: left;
+    margin-left: 1.15%;
+    width: 32%;
+    height: 89%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+
+}
+
+#left div {
+    margin: 3%;
+    width: 93%;
+    /* border: 1px solid #003b42; */
+    background-color: #aacfd0;
+}
+
+#one {
+    height: 28%;
+}
+
+
+
+
+#two {
+    height: 15%;
+}
+
+#three {
+    height: 15%;
+}
+
+#four{
+    height: 34%;
+}
+
+
+#right {
+    float: left;
+    width: 65%;
+    height: 89%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+}
+
+#right div {
+    margin-top: 1.5%;
+    margin-left: 1.1%;
+    width: 97%;
+    /* border: 1px solid #003b42; */
+    background-color: #79a8a9;
+    color: #002529;
+}
+
+#one1 {
+    height: 12%;
+
+}
+
+
+
+
+#one2{
+    height: 15%;
+}
+
+#one3 {
+    height: 40%;
+    
+}
+
+#one4 {
+    height: 25%;
+}
+
+
+
