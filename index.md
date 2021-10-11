@@ -11,7 +11,6 @@
     <div id = container> 
         <div id="top"><center><h1>个人简历</h1></center></div>
         <div id="left">
-            <div id = "one" 
                <img src="https://i01piccdn.sogoucdn.com/c64460e433015c7c"  width="235" height="300">            
             </div>
             <div id = "two">
