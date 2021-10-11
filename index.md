@@ -11,35 +11,38 @@
     <div id = container> 
         <div id="top"><center><h1>个人简历</h1></center></div>
         <div id="left">
-               <img src="https://i01piccdn.sogoucdn.com/c64460e433015c7c"  width="235" height="300">            
+            <div id = "one" >
+               <h2>#证件照片</h2>
+               <img src="	https://tse3-mm.cn.bing.net/th/id/OIP-C.sCtk5x5VGisjB8uus1s0rwHaHa?pid=ImgDet&rs=1"  width="235" height="200">
+                          
             </div>
             <div id = "two">
                 <h2>#联系方式</h2> 
-                <h3>电话：17612341234</h3>
-                <h3>微信：17612341234</h3>
-                <h3>邮箱：123456789@qq.com</h3>
+                <h3>电话：12345678901</h3>
+                <h3>微信：18956473245</h3>
+                <h3>邮箱：123456@qq.com</h3>
             </div>
             <div id = "three">
                 <h2>#个人标签</h2>
-                <h3>学习力强　　　　有责任心</h3>
-                <h3>闪现开团　　　　团灭发动机</h3>
+                <h3>善于沟通　　　　吃苦耐劳</h3>
+                <h3>沉着冷静　　　　专业扎实</h3>
             </div>
             <div id = "four">
                 <h2>#办公技能</h2>
-                <p>英语CET6</p>
-                <p>重庆话</p>
-                <p>网络工程师（高级）</p>
-                <p>上单</p>
-                <p>中单</p>
-                <p>下路</p>
-                <p>辅助</p>              
-                <p>打野</p>
+                <h3>>Linux</h3>
+                <h3>>Java</h3>
+                <h3>>Python</h3>
+                <h3>>Node.js </h3>
+                <h3>>Office</h3>
+                <h3>>Photoshop</h3>
+                <h3>>AutoCAD</h3>              
+                <h3>>Vue.js </h3>
             </div>
         </div>
         <div id="right">
             <div id = "one1">
                 <h2>#个人信息</h2>
-                <h3>姓名：罗一搏 | 性别：南 | 年龄：21 | 籍贯：重庆 | 学历：博士</h3>
+                <h3>姓名：js | 性别：女 | 年龄：22 | 籍贯：重庆 | 学历：大专</h3>
                 <h3>居住地：重庆江津 | 通讯地址：重庆工程职业技术学院</h3>
             </div>
             <div id = "one2">
