@@ -16,6 +16,9 @@
                <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fl%2Fpublic%2Fp154102766.jpg&refer=http%3A%2F%2Fimg3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636527378&t=04a15da46ace5f0241a741895aa714e9"  width="235" height="300">
                           
             </div>
+            <br></br>
+        <br></br>
+    <br></br>
             <div id = "two">
                 <h2>#联系方式</h2> 
                 <h3>电话：12345678901</h3>
