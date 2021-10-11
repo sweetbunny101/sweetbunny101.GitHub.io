@@ -4,48 +4,46 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width, initial-scale=1.0">
-    <title>个人简历</title>
+    <title>页面布局</title>
     <link rel="stylesheet" href="index.css">   
 </head>
 <body >
     <div id = container> 
         <div id="top"><center><h1>个人简历</h1></center></div>
         <div id="left">
-            <div id = "one" >
-               <h2>#照片</h2>
-               <img src="https://i01piccdn.sogoucdn.com/c64460e433015c7c"  width="235" height="200">
-                          
+            <div id = "one" 
+               <img src="https://i01piccdn.sogoucdn.com/c64460e433015c7c"  width="235" height="300">            
             </div>
             <div id = "two">
                 <h2>#联系方式</h2> 
-                <p>电话：17612341234</p>
-                <p>微信：17612341234</p>
-                <p>邮箱：123456789@qq.com</p>
+                <h3>电话：17612341234</h3>
+                <h3>微信：17612341234</h3>
+                <h3>邮箱：123456789@qq.com</h3>
             </div>
             <div id = "three">
                 <h2>#个人标签</h2>
-                <p>学习力强　　　　有责任心</p>
-                <p>闪现开团　　　　团灭发动机</p>
+                <h3>学习力强　　　　有责任心</h3>
+                <h3>闪现开团　　　　团灭发动机</h3>
             </div>
             <div id = "four">
-                <h2>#个人技能</h2>
-                <p>英语CET6</p>
-                <p>重庆话</p>
-                <p>网络工程师（高级）</p>
-                <p>上单</p>
-                <p>中单</p>
-                <p>下路</p>
-                <p>辅助</p>              
-                <p>野王</p>
+                <h2>#办公技能</h2>
+                <h3>>英语CET6</h3>
+                <h3>>重庆话</h3>
+                <h3>>网络工程师（高级）</h3>
+                <h3>>上单</h3>
+                <h3>>中单</h3>
+                <h3>>下路</h3>
+                <h3>>辅助</h3>              
+                <h3>>打野</h3>
             </div>
         </div>
         <div id="right">
             <div id = "one1">
                 <h2>#个人信息</h2>
-                <p>姓名：罗一搏 | 男 | 年龄：21 | 籍贯：重庆 | 学历：博士</p>
-                <p>居住地：重庆江津 | 通讯地址：重庆工程职业技术学院<>
+                <h3>姓名：罗一搏 | 性别：南 | 年龄：21 | 籍贯：重庆 | 学历：博士</h3>
+                <h3>居住地：重庆江津 | 通讯地址：重庆工程职业技术学院</h3>
             </div>
-             <div id = "one2">
+            <div id = "one2">
                 <h2>#教育背景</h2>
                 <h3>重庆工程职业技术学院 | 云计算技术与应用 | 2019.9-2022.6</h3>
                 <h3>主修课程 ： 《Linux》  《Openstack》  《Java》  《Python》 </h3>
@@ -76,6 +74,7 @@
                 <h3>>2020年12月 院级优秀志愿者</h3>
                 <h3>>2021年7月 大数据与物联网学院智慧囊知识竞赛第一名</h3>
             </div>
+        </div>
         <div id="clear"></div>
     <div>  
 </body>
