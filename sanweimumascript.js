@@ -11,7 +11,7 @@ var imgHeight = 170; // height of images (unit: px)
 
 // Link of background music - set 'null' if you dont want to play background music
 var bgMusicURL = 'https://i.y.qq.com/v8/playsong.html?songid=244577477#webchat_redirect';
-var bgMusicControls = true; // Show UI music control
+var bgMusicControls = null; // Show UI music control
 
 /*
      NOTE:
